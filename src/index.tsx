@@ -6,7 +6,7 @@ import { ThemeProvider } from 'styled-components';
 import App from './App';
 
 // Theme
-import { theme } from '@config/theme';
+import { theme } from '@config/theme/theme';
 
 // Global Styles
 import GlobalStyle from '@assets/styles/global';
