@@ -14,17 +14,11 @@
       "@containers/*": [
         "src/containers/*"
       ],
-      "@dashboardContainers/*": [
-        "src/containers/Dashboard/containers/*"
-      ],
       "@hooks/*": [
         "src/hooks/*"
       ],
-      "@models/*": [
-        "src/models/*"
-      ],
-      "@store/*": [
-        "src/store/*"
+      "@types/*": [
+        "src/types/*"
       ],
       "@utils/*": [
         "src/utils/*"
